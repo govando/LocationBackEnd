@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7455cc-c9b1-4378-97cc-a499cde5ab09" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/awesomeLocPkg/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/awesomeLocPkg/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/awesomeLocPkg/setting.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/awesomeLocPkg/setting.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/awesomeLocPkg/Location.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/awesomeLocPkg/Location.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/awesomeLocPkg/awesomeLocPkg" beforeDir="false" afterPath="$PROJECT_DIR$/src/awesomeLocPkg/awesomeLocPkg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/awesomeLocPkg/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -26,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Location.go" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Location.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/awesomeLocPkg/Location.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="37" selection-start-line="6" selection-start-column="4" selection-end-line="12" selection-end-column="37" />
+            <state relative-caret-position="195">
+              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -80,9 +80,9 @@
         <option value="$PROJECT_DIR$/main.go" />
         <option value="$PROJECT_DIR$/src/awesomeLocPkg/location.go" />
         <option value="$PROJECT_DIR$/src/network/network.go" />
-        <option value="$PROJECT_DIR$/src/awesomeLocPkg/Location.go" />
         <option value="$PROJECT_DIR$/src/awesomeLocPkg/setting.go" />
         <option value="$PROJECT_DIR$/src/awesomeLocPkg/main.go" />
+        <option value="$PROJECT_DIR$/src/awesomeLocPkg/Location.go" />
       </list>
     </option>
   </component>
@@ -379,10 +379,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/awesomeLocPkg/Location.go">
+    <entry file="file://$PROJECT_DIR$/src/awesomeLocPkg/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="37" selection-start-line="6" selection-start-column="4" selection-end-line="12" selection-end-column="37" />
+        <state relative-caret-position="135">
+          <caret line="80" column="28" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
+          <folding>
+            <element signature="e#14#138#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -393,13 +396,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/awesomeLocPkg/main.go">
+    <entry file="file://$PROJECT_DIR$/src/awesomeLocPkg/Location.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="80" column="28" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
-          <folding>
-            <element signature="e#14#138#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
         </state>
       </provider>
     </entry>

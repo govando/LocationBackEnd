@@ -11,6 +11,7 @@ type Location struct {
 	Accuracy 	float32	`json:"accuracy"`
 	Altitude	float64	`json:"altitude"`
 	Speed		float32	`json:"speed"`
+	BatteryPct	float32	`json:"batteryPct"`
 }
 
 
